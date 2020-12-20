@@ -3,7 +3,7 @@ package edu.uwm.seensay;
 import android.media.MediaPlayer;
 
 public class Animal {
-    private int imageNum;
+    private final int imageNum;
     private String soundString;
     private MediaPlayer animalSoundMP;
 
