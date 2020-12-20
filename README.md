@@ -18,9 +18,9 @@ All the resources and assets used in the app are not my property. All resources/
 
 <p align="center">
 
-  <img style="height:475px;" src="./github_assets/CorrectAnswerGif.gif" />
-  <img style="height:475px;" src="./github_assets/WrongAnswerGif.gif" />
-  <img style="height:475px;" src="./github_assets/DialogBoxGif.gif" />
+  <img src="./github_assets/CorrectAnswerGif.gif" width="225" />
+  <img src="./github_assets/WrongAnswerGif.gif" width="225" />
+  <img src="./github_assets/DialogBoxGif.gif" width="225" />
 </p>
 
 ## :exclamation: About
