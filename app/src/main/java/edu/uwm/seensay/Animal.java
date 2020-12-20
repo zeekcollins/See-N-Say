@@ -5,7 +5,7 @@ import android.media.MediaPlayer;
 public class Animal {
     private int imageNum;
     private String soundString;
-    private MediaPlayer animalSoundMP;
+    private final MediaPlayer animalSoundMP;
 
     public Animal(int imageNum, String soundString, MediaPlayer animalSoundMP) {
         this.imageNum = imageNum;
