@@ -25,7 +25,7 @@ All the resources and assets used in the app are not my property. All resources/
 
 ## :exclamation: About
 
-See 'N Say is a native Android app developed in Java on Android Studio. Its objective is to entertain children while helping them develop their cognitive skills. The app includes a photo feature, allowing the child to take a picture before each round, designed to heighten the ending affirmation and increase the feeling of personal acheivement.
+See 'N Say is a native Android app developed in Java on Android Studio. Its objective is to entertain children while helping them develop their cognitive skills. The app includes a photo feature, allowing the child to take a picture before each round, designed to heighten the ending affirmation and increase the feeling of personal achievement.
 
 ## :rocket: Technologies
 
